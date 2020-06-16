@@ -1,6 +1,6 @@
 ### photo_selector
 #### The Photo Selector For Android
-#### If you not sure, please click here : [EventBus](https://www.cmonbaby.com)
+#### If you not sure, please click here : [PhotoSelector](https://www.cmonbaby.com)
 
 Via Gradle:
 ```gradle
